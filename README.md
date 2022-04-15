@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on programming andd coding
-- 📫 How to reach me i live in Munich/Germany and my insta/mureedd
+- 📫 i live in Munich/Germany and my insta/mureedd
 
 <!---
 mureedd/mureedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
